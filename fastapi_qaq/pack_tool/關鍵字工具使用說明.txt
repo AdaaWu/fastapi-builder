@@ -1,0 +1,8 @@
+只限於Window 10,11 x86 環境
+
+1. 點擊tagstool.exe 檔案
+
+2. 網頁上輸入 http://localhost:8000/index.html#/tags 即可操作
+
+
+不使用的情況下可以把 啟動後出現的命令視窗關閉
